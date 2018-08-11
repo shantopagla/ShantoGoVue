@@ -1,6 +1,6 @@
 # go-vue-starter
 
-Copyright 2017 Sharful Islam
+Copyright 2018 Sharful Islam
 
 ## Golang Starter project with Vue.js single page client
 
