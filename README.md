@@ -1,6 +1,6 @@
 # go-vue-starter
 
-Copyright 2017 Mark Chenoweth
+Copyright 2017 Sharful Islam
 
 ## Golang Starter project with Vue.js single page client
 
@@ -29,7 +29,7 @@ Copyright 2017 Mark Chenoweth
 - letsencrypt tls
 
 ### To get started:
-
+Go starts up on port 3000 (and does not hot-reload), Vue client ( in a separate process - both must run alongside ) starts up on port 8080 (see below).  
 ``` bash
 # clone repository
 go get github.com/shantopagla/ShantoGoVue
@@ -40,7 +40,7 @@ go get -u ./...
 go run server.go
 
 # open a new terminal and change to the client dir
-cd client
+cd $GOPATH/src/github.com/shantopagla/ShantoGoVue/client
 
 # install dependencies
 npm install

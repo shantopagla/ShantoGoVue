@@ -1,8 +1,8 @@
 {
   "name": "starter",
   "version": "1.0.0",
-  "description": "Go/Vue starter project",
-  "author": "Mark Chenoweth",
+  "description": "Go and Vue dev env including tests",
+  "author": "Sharful Islam",
   "private": true,
   "scripts": {
     "dev": "node build/devserver.js",
