@@ -1,4 +1,4 @@
-# go-vue-starter
+# go-vue-starter - API app
 
 Copyright 2018 Sharful Islam
 
