@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/markcheno/go-vue-starter/models"
+	"github.com/shantopagla/ShantoGoVue/models"
 )
 
 // API -
